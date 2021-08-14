@@ -24,7 +24,7 @@
     margin-bottom: 20px;
 }.aws {
     background-color: orange;
-    height: 100vh;
+    min-height: 100vh;
 }.center-aws {
     display: flex;
     justify-content: center;
