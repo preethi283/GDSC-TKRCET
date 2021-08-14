@@ -17,7 +17,7 @@
 }#gdsc h1{
     color: rgb(64, 141, 241);
 }.gdsc-section {
-    height: 100vh;
+    min-height: 100vh;
     padding-top: 10vh;
 }.card-body img {
     width: 50px;
